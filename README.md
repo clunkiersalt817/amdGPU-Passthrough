@@ -1,3 +1,10 @@
+# System Info
+  - This is a Laptop
+  - MSI Bravo 15 B5DD
+  - CPU - Ryzen 5600H
+  - GPU - iGPU (Radeon Graphics), dGPU (Radeon RX 5500M)
+  - RAM - 16GB
+
 # amdGPU-Passthrough
 - iGPU(AMD Radeon Graphics) for ubuntu host and dGPU(AMD Radeon RX 5500m) passthrough for Windows VM
 
